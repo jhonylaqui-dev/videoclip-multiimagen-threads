@@ -1,0 +1,5 @@
+mode,frames,threads,seconds
+SERIAL,120,1,7.516
+PARALLEL,120,2,4.026
+SERIAL,120,1,7.366
+PARALLEL,120,4,2.314
